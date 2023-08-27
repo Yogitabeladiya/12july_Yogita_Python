@@ -24,10 +24,19 @@ else:
     print(f"{tup.index(i)} -{i}")
 
 '''
-tup=[]
+'''tup=[]
 n=int(input("enter input number"))
 
 for i in range(n):
     x=input("enter tuple")
     tup.append(x)
 print(tuple(tup))
+'''
+
+Name=input("\tPython E-Note Generator Name:-")
+if Name.isalpha():
+     f1.write(f"Name:-{Name}\n")
+else:
+    print("error")
+    #print("pls enetr aplhabet")
+    Name=input("\tPython E-Note Generator Name:-")

@@ -1,85 +1,278 @@
 
 
-Name:-qwe
-Title:-asd
- Content:-asd
-Name:-qwe
-Title:-asd
- Content:-zxc
-Name:-wer
-Title:-asd
- Content:-asf
-Name:-qwe
-Title:-asd
- Content:-af
-Name:- yogita beladiya
-Title:- python introduction
- Content:- python is high level programming language 
-Name:-qwe
-Title:-asd
- Content:-asd
-Name:- yogita
-Title:- beladiya
- Content:- highlevel language 
-Name:-beladiya 
-Title:- yogita
- Content:- python is best langugage 
-Name:-cldk
-Title:-dkjfh
- Content:-fkjjhhu
-Name:- yogita 
-Title:- beladiya
- Content:- python is highlevel programming language 
-Name:-qwe
-Title:-asd
- Content:-zf
-Name:- yogita 
-Title:- beladiya
- Content:- python is high level programming language 
- 2023-08-26 10:47:01.460106
-Name:-asd
-Title:-asd
- Content:-asf
- 2023-08-26 10:54:54.667438
+
+ 
 Name:-yogita
-Title:-python introduction
- Content:-djfg
- 2023-08-26 10:55:37.474092
-Name:-yogita
-Title:- beladiya
- Content:-jhdguye
- 2023-08-26 10:56:27.722912
-Name:- yogita
-Title:- beladiya
- Content:- python introduction
- 2023-08-26 11:03:14.640479
-Name:-qwe
-Title:-asd
- Content:-asf
- 2023-08-26 11:05:57.574015
-Name:- yogita beladiya
-Title:- book
- Content:-ytfdhgkdj
- 2023-08-26 11:07:45.943577
+ Time:-2023-08-26 16:02:11.416820
+ Title:-PYTHON INTRODUCTION
+Content:-python is high level programmimg languag e
 Name:- yogita 
-Title:- beladiya
- Content:- python is high level language 
- 2023-08-26 11:10:47.590561
+Content:- python is high level proggaming languag e
 Name:- yogita
-Content:-jjdjhf
- 2023-08-26 11:21:48.726509
-Name:- yigj
+ Time:-2023-08-26 16:25:43.410795
+ Title:- PYTHON
+Content:- python kkj
 Content:-cls
- 2023-08-26 11:25:48.302294
-Name:- yogi
-Content:-ef
- 2023-08-26 11:27:34.371579
+Name:- yogita
+ Time:-2023-08-26 16:27:25.139710
+ Title:- PYTHON
+Content:-production
+Name:- yogita
+Content:-cbdhvbfvyr
+Name:- yogita
+ Time:-2023-08-26 16:40:07.518616
+ Title:-PYTHON INTRODUCTION
+Content:- python is high level programming languge 
+Name:-tops
+ Time:-2023-08-26 16:43:33.378750
+ Title:-PYTHON
+Content:-learn python for free
+Name:-sanket
+ Time:-2023-08-26 16:43:33.378750
+ Title:-LEARN DIGITAL MARKETING
+Content:-hello dm
+Content:-dwfw
+ Time:-2023-08-26 16:54:40.928402
+ Title:-PYTHON INTRODUCTION
+Content:- python learning
+
+-------------------------------
+Name:-yogita
+ Time:-2023-08-26 18:33:48.588117
+ Title:-PYTHON INTRODUCTION
+Content:-python is programming languga e
+
+-------------------------------
+Name:-yogita
+ Time:-2023-08-26 18:36:06.358813
+ Title:-PYTHON INTRODUCTION
+Content:-python is high level programming languge
+
+-------------------------------
+Name:-yogita
+ Time:-2023-08-26 18:37:51.906817
+ Title:-PYTHON INTRODUCTION
+Content:-python is high level programming langj=uage
+
+-------------------------------
+Name:-yogita
+ Time:-2023-08-26 18:46:55.200695
+ Title:-PYTHON INTRODUCTION
+Content:-python is high level programming langugae 
+
+-------------------------------
+Name:-rinkal
+Content:-python is high level progamming language'
+
+-------------------------------
+ Time:-2023-08-26 18:53:00.350774
+ Title:-PYTHON HIGH LEVEL PROGRAMMING LANGUHG
+Content:-python i knehfurf
+	          Name:-yogita
+
+-------------------------------
+Content:-web develpoment
+	          Name:-rinkal
+
+-------------------------------
+ Time:-2023-08-26 18:54:51.373058
+ Title:-PYTHON INTRO
+Content:-python is high level programming languge
+	          Name:-yogita
+
+-------------------------------
+ Time:-2023-08-26 18:56:05.297914
+ Title:-PYTHON INTRO
+Content:-python is high level programming
+	                                      Name:-yogita
+
+-------------------------------
+ Time:-2023-08-26 19:02:03.119248
+ Title:-PYTHON PROGRAMMING
+Content:-pyhdhfrgyfghfvfhvb
+ Time:-2023-08-26 19:36:35.311270
+ Title:-PYTHON
+Content:-jdfutghitghjhg
+ Time:-2023-08-26 19:37:18.688967
+ Title:-PYTHON
+Content:-python is high level progammminglahv
+ Time:-2023-08-26 19:41:18.673616
+ Title:-PYTHON 
+Content:-python is high level programming langugae
+	          Name:-yogita
+
+-------------------------------
+ Time:-2023-08-26 19:44:55.626666
+ Title:-PYTHON
+Content:-python is high level programming languge
+	          Name:-yogita
+
+-------------------------------
+ Time:-2023-08-26 19:44:55.626666
+ Title:-WETECH
+Content:-this is book 
+	          Name:-rinkal
+
+-------------------------------
+ Time:-2023-08-26 20:04:18.270179
+ Title:-PYTHON 
+Content:-jdfhrygfg
+	          Name:-dfhryfg
+
+-------------------------------
+ Time:-2023-08-26 20:11:08.048897
+ Title:-PYTHON
+Content:-this is python 
+	          Name:-yogita
+
+-------------------------------
+ Time:-2023-08-26 20:11:08.048897
+ Title:-WEB
+Content:-qwrr
+	          Name:-rinku
+
+-------------------------------
+ Time:-2023-08-26 20:14:57.256805
+ Title:-PYTHON
+Content:-this is me 
+	          Name:-beladiya
+
+-------------------------------
+ Time:-2023-08-26 20:14:57.256805
+ Title:-LAPTOP
+Content:-very imp thing
+	          Name:-rinku
+
+-------------------------------
+ Time:-2023-08-26 20:16:59.148444
+ Title:-QW
+Content:-asdg
+	          Name:-qwr
+
+-------------------------------
+ Time:-2023-08-26 20:18:57.579882
+ Title:-QWER
+Content:-asftght
+	          Name:-wewty
+
+-------------------------------
+ Time:-2023-08-26 20:18:57.579882
+ Title:-QWEG
 Content:-asdf
- 2023-08-26 11:41:11.882007
-Name:-yogi
-Content:-wrert
- 2023-08-26 11:42:29.861594
-Name:-yogi
-Title:-ETYU
-Content:-qwe
- 2023-08-26 12:00:03.388134
+	          Name:-cvbhng
+
+-------------------------------
+ Time:-2023-08-26 20:24:07.365020
+ Title:-PYTHON
+Content:-qwerg
+	          Name:-jkdfhrug
+
+-------------------------------
+ Time:-2023-08-26 20:24:07.365020
+ Title:-DKNRTIG
+Content:-cvmnfguhtru
+	          Name:-hgfry
+
+-------------------------------
+ Time:-2023-08-26 20:27:38.035746
+ Title:-EIFHRHGH
+Content:-pdihfrygfhgtughi
+	          Name:-djhbfrygf
+
+-------------------------------
+ Time:-2023-08-26 20:27:38.035746
+ Title:-DBFRUFG
+Content:-dbfrugt
+	          Name:-nfvgtu
+
+-------------------------------
+ Time:-2023-08-26 20:29:31.697928
+ Title:-PYTHON
+Content:-this is python basic 
+	          Name:-yogita
+
+-------------------------------
+ Time:-2023-08-26 20:35:26.879342
+ Title:-PYTHON
+Content:-this is python 
+	          Name:-yogita
+
+-------------------------------
+ Time:-2023-08-26 20:36:43.727246
+ Title:-PYTHON	
+Content:-this is python
+	          Name:-rinkal
+
+-------------------------------
+ Time:-2023-08-26 20:37:48.960801
+ Title:-PYTHON
+Content:-fkjhtrguhv
+	          Name:-dbueyfg
+
+-------------------------------
+ Time:-2023-08-26 20:37:48.960801
+ Title:-HSJDGYU
+Content:-fjhutgh
+	          Name:-fjkghtu
+
+-------------------------------
+ Time:-2023-08-26 20:40:04.512493
+ Title:-HOME
+Content:-this is my house
+	          Name:-bhagvati
+
+-------------------------------
+ Time:-2023-08-26 20:40:04.512493
+ Title:-PHONE
+Content:-sjsdeuyryf
+	          Name:-radhi
+
+-------------------------------
+ Time:-2023-08-26 20:40:04.512493
+ Title:- JHBFHR
+Content:-djhereu
+	          Name:-djbr
+
+-------------------------------
+ Time:-2023-08-27 18:17:03.893513
+ Title:-PYTHON INTRODUCTION
+Content:- pthon is high level programming language
+	          Name:-yogita
+
+-------------------------------
+ Time:-2023-08-27 19:39:44.906691
+ Title:-PYTHON INTRODUCTION
+Content:-python is high level prgramming langugae 
+	          Name:-yogits
+
+-------------------------------
+ Time:-2023-08-27 19:42:56.619928
+ Title:-PYTHON
+Content:-python id high level programming language 
+	          Name:-cls
+
+-------------------------------
+ Time:-2023-08-27 19:44:46.672202
+ Title:-PYTHON
+Content:-python is high level programming langugae
+ Time:-2023-08-27 19:45:48.082889
+ Title:-PYTHON
+Content:-high level programming languge
+ Time:-2023-08-27 19:47:27.284679
+ Title:-PYTHON
+Content:-high level programming 
+ Time:-2023-08-27 19:48:59.248443
+ Title:- PYTHON
+Content:- high level programming
+ Time:-2023-08-27 19:50:01.832471
+ Title:-PYTHON
+Content:-high level programming languge
+	          Name:-yogita
+
+-------------------------------
+ Time:-2023-08-27 19:52:06.249693
+ Title:- PYTHON
+Content:-hgfueygffh
+	          Name:-dneriuh
+
+-------------------------------

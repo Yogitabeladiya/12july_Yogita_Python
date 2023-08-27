@@ -6,20 +6,21 @@ print("\t   Press  1 for Generate E-NoteBook")
 print("\t   Press  2 for View NoteBook")
 print("\t   Press  3 for Exit\n")
 
-Choice=input("Enter Choice")
+Choice=input("Enter Choice....")
 
 if Choice=='1': 
   e2.y1()
-  print("sucessfully enetr data")
-  User=input("Enter Choice  User Add Content or exit")
-  if User=='Add':
-    e2.y1()
-    print("Add user record sucessfully ")
+  e2.y2()
+  e2.y3()
+  print(" Enter sucessfully.......")
+  n=input("if user add new data Yes or no ....")
+  if n=='yes':
+     e2.y5()
   else:
-    exit()
+     print("No...")
 elif Choice=='2':
-  e2.view()
-  print("view sucessfully")
+    e2.view()
+    print("view sucessfully........")
 else:
   exit()
 
