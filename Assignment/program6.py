@@ -1,3 +1,4 @@
-# remove duplicated record from the lit 
-l=['yogita','rinjkal','yogita','mital','nayna']
-print(list(set(l)))
+# file data store in variable
+f=open("t11.txt","r")
+data=f.readlines()
+print(data)

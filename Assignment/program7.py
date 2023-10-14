@@ -1,9 +1,8 @@
-# list of character into string
-'''def convert(s):
-	str1 = ""
-	return(str1.join(s))
-s = ['g', 'e', 'e', 'k', 's', 'f', 'o', 'r', 'g', 'e', 'e', 'k', 's']
-print(convert(s))
 
-'''
-
+# find longest one 
+def lon_word(sentence):
+    word=sentence.split()
+    lon_word=max(word,key=len)
+    return lon_word
+sentence="the quickee brownee fox jumps over the lazy "
+print(lon_word(sentence))

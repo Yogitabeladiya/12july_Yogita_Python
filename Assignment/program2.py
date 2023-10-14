@@ -1,5 +1,5 @@
-# remove duplicated record from list 
-'''lst=[1,2,3,2,1,1,2,4,5]
-print(list(set(lst)))'''
-
-
+# nnumber of line read 
+f1=open("t11.txt","r+")
+n=int(input("Enter n"))
+for i in range(1,n+1):
+  print(f1.readlines(i))

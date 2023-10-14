@@ -1,13 +1,10 @@
-# write a python program to tuple with different datatypes
+# raise odd 
 
-
-tuple=(1,2,3,4,5)
-print(tuple)
-
-
-tuple1=('y','o','g','i')
-print(tuple1)
-
-
-tuple2=(True,5j)
-print(tuple2)
+while True:
+    try:
+        num = int(input("Enter an odd number: "))
+        if num % 2 == 0:
+            raise ValueError("You entered an even number!")
+        break
+    except ValueError as e:
+        print(e)

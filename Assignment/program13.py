@@ -1,11 +1,22 @@
-# cheak list contain sub list 
+'''Write a Python class named Circle constructed by a radius and two 
+methods which will compute the area and the perimeter of a circle'''
 
 
-list=[(1,2,3,4,5),(3,4,5,67,8,9),(2,9,0,4)]
-s1,s2,s3=list
+class circle:
+    def __init__(self,radius) :
+        self.radius=radius  
 
-if list in s1 :
-    print('yes')
+    def area(self):
+        return self.radius ** 2 * 3.14
+    
+    
+    def pera(self):
+        return 2* self.radius * 3.14
+    
 
-else:
-    print('nooo')
+c=circle(8)
+print(c.area())
+print(c.pera())       
+
+
+

@@ -1,5 +1,6 @@
-# create tuple with numbers
+# copy one file to another file 
+f=open("t11.txt","r")
+f1=open("b1.txt","a")
 
-
-tuple=(1,2,3,4,5,6)
-print(tuple)
+for i in f:
+    f1.write(i)

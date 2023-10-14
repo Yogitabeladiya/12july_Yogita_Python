@@ -1,8 +1,19 @@
-# split a list into different variable 
+'''Write a Python class named Rectangle constructed by a length and 
+width and a method which will compute the area of a rectangle'''
 
 
-list=[(1,2,3,4,5),(3,4,5,67,8,9),(2,9,0,4)]
-s1,s2,s3=list
-print(s1)
-print(s2)
-print(s3)
+class Rectangle:
+   def __init__(self,length,width):
+      self.length=length
+      self.width=width
+
+   def area(self):
+      return self.length*self.width
+   
+r1=Rectangle(5,3)
+print(r1.area())
+      
+      
+
+
+
